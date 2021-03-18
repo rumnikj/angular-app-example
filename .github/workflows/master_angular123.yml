@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'angular123'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6d8ca38056fc4e85b539391da75503c5 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9b4379927c0a48de86f69ba6dd345f72 }}
         package: \published\
